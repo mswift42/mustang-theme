@@ -12,7 +12,7 @@
 (custom-theme-set-faces
   'mustang 
         '(default ((t (:background "#202020" :foreground "#e2e2e5"))))
-        '(font-lock-builtin-face ((t (:foreground "#ffffff"))))
+        '(font-lock-builtin-face ((t (:foreground "#808080"))))
         '(region ((t (:background "#faf4c6"))))
         '(highlight ((t (:background "#faf4c6"))))
         '(fringe ((t (:background "#1e1e27" :foreground "#cfbfad"))))
@@ -28,7 +28,7 @@
         '(font-lock-comment-delimiter-face ((t (:foreground "#808080"))))
 	'(font-lock-constant-face ((t (:foreground "#ff9800"))))
         '(font-lock-doc-face ((t (:foreground "#7e8aa2"))))
-        '(font-lock-function-name-face ((t (:foreground "#ffffff"))))
+        '(font-lock-function-name-face ((t (:foreground "#808080"))))
         '(font-lock-keyword-face ((t (:bold t :foreground "#ff9800"))))
         '(font-lock-preprocessor-face ((t (:foreground "#faf4c6"))))
         '(font-lock-reference-face ((t (:bold t :foreground "#808bed"))))
