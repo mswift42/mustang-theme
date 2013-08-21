@@ -60,8 +60,8 @@
 	'(font-latex-italic-face ((t (:foreground "#808bed" :italic t))))
 	'(font-latex-string-face ((t (:foreground "#708090"))))
 	'(font-latex-match-reference-keywords ((t (:foreground "#708090"))))
-	'(font-latex-match-variable-keywords ((t (:foreground "#708090"))))
-)
+	'(font-latex-match-variable-keywords ((t (:foreground "#708090")))))
+
 ;;;###autoload
 (when load-file-name
   (add-to-list 'custom-theme-load-path
@@ -69,7 +69,4 @@
 
 (provide-theme 'mustang)
 
-
-
-
-;;; inkpot-theme.el ends here
+;;; mustang-theme.el ends here
