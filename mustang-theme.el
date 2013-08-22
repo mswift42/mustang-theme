@@ -13,7 +13,7 @@
         '(default ((t (:background "#202020" :foreground "#e2e2e5"))))
         '(font-lock-builtin-face ((t (:foreground "#808080"))))
         '(region ((t (:background "#3c414c" :foreground "#faf4c6"))))
-        '(highlight ((t (:background "#faf4c6"))))
+        '(highlight ((t (:background "#3c414c"))))
 	'(fringe ((t (:background "#1e1e27" :foreground "#cfbfad"))))
 	'(cursor ((t (:background "#626262"))))
         '(show-paren-match-face ((t (:background "#606060"))))
