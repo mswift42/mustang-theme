@@ -17,7 +17,7 @@
 	'(fringe ((t (:background "#1e1e27" :foreground "#cfbfad"))))
 	'(cursor ((t (:background "#626262"))))
         '(show-paren-match-face ((t (:background "#606060"))))
-        '(isearch ((t (:bold t :foreground "#ffffff" :background "#faf4c6"))))
+        '(isearch ((t (:bold t :foreground "#202020" :background "#e2e2e5"))))
         '(modeline ((t (:bold t :foreground "#808080" :background "#626262"))))
         '(modeline-inactive ((t (:foreground "#808080" :background "#202020"))))
         '(modeline-buffer-id ((t (:bold t :foreground "#808080" :background "#7e8aa2x"))))
