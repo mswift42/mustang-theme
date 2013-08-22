@@ -1,7 +1,7 @@
 ;;; mustang-theme.el --- port of vim's mustang theme
 ;; Author: martin haesler
 ;; URL: http://github.com/mswift42/mustang-theme
-;;; Version: 0.1
+;;; Version: 0.2
 
 ;; original vim theme by Henrique C.Alves
 ;;(http://hcalves.deviantart.com/art/Mustang-Vim-Colorscheme-98974484)
@@ -37,8 +37,7 @@
         '(font-lock-variable-name-face ((t (:foreground "#ff9800"))))
         '(font-lock-warning-face ((t (:foreground "#ffffff" :background "#ff0000"))))
 	'(link ((t (:foreground "#ff9800"))))
-	'(hl-line ((t (:background "#gray22"))))
-        '(org-hide ((t (:foreground "#708090"))))
+	'(org-hide ((t (:foreground "#708090"))))
         '(org-level-1 ((t (:bold t :foreground "#808080" :height 1.1))))
         '(org-level-2 ((t (:bold nil :foreground "#b1d631" :height 1.1))))
         '(org-level-3 ((t (:bold t :foreground "#df9f2d" :height 1.1))))
