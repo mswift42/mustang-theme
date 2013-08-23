@@ -4,7 +4,7 @@
 ;;; Version: 0.2
 
 ;; original vim theme by Henrique C.Alves
-;;(http://hcalves.deviantart.com/art/Mustang-Vim-Colorscheme-98974484)
+;;(http://hcalves.deviantart.com/art/Mustang-Vim-Colorspcheme-98974484)
 
 (deftheme mustang)
 
@@ -20,7 +20,7 @@
         '(isearch ((t (:bold t :foreground "#202020" :background "#e2e2e5"))))
         '(modeline ((t (:bold t :foreground "#808080" :background "#626262"))))
         '(modeline-inactive ((t (:foreground "#808080" :background "#202020"))))
-        '(modeline-buffer-id ((t (:bold t :foreground "#808080" :background "#7e8aa2x"))))
+        '(modeline-buffer-id ((t (:bold t :foreground "#808080" :background "#7e8aa2"))))
         '(minibuffer-prompt ((t (:bold t :foreground "#708090"))))
         '(default-italic ((t (:italic t))))
 	'(font-lock-comment-face ((t (:foreground "#808080"))))
