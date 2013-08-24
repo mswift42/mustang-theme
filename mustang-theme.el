@@ -16,11 +16,11 @@
         '(highlight ((t (:background "#3c414c"))))
 	'(fringe ((t (:background "#232323" :foreground "#cfbfad"))))
 	'(cursor ((t (:background "#626262"))))
-        '(show-paren-match-face ((t (:background "#606060"))))
+        '(show-paren-match-face ((t (:background "#383838"))))
         '(isearch ((t (:bold t :foreground "#202020" :background "#e2e2e5"))))
         '(modeline ((t (:bold t :foreground "#808080" :background "#626262"))))
         '(modeline-inactive ((t (:foreground "#808080" :background "#202020"))))
-        '(modeline-buffer-id ((t (:bold t :foreground "#808080" :background "#7e8aa2"))))
+        '(modeline-buffer-id ((t (:bold t :foreground "#202020" :background "#ff9800"))))
         '(minibuffer-prompt ((t (:bold t :foreground "#708090"))))
         '(default-italic ((t (:italic t))))
 	'(font-lock-comment-face ((t (:foreground "#808080"))))
@@ -65,7 +65,11 @@
 	'(font-latex-match-variable-keywords ((t (:foreground "#708090"))))
 	'(ido-only-match ((t (:foreground "#ff9800"))))
 	'(org-sexp-date ((t (:foreground "#808080"))))
-	'(ido-first-match ((t (:foreground "#b1d631")))))
+	'(ido-first-match ((t (:foreground "#b1d631"))))
+	'(gnus-header-content ((t (:foreground "#ff9810"))))
+	'(gnus-header-from ((t (:foreground "#f0e16a"))))
+	'(gnus-header-name ((t (:foreground "#ff9800"))))
+	'(gnus-header-subject ((t (:foreground "#ff8800")))))
 
 ;;;###autoload
 (when load-file-name
