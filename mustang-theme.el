@@ -1,7 +1,7 @@
 ;;; mustang-theme.el --- port of vim's mustang theme
 ;; Author: martin haesler
 ;; URL: http://github.com/mswift42/mustang-theme
-;;; Version: 0.2
+;;; Version: 0.3
 
 ;; original vim theme by Henrique C.Alves
 ;;(http://hcalves.deviantart.com/art/Mustang-Vim-Colorspcheme-98974484)
@@ -70,7 +70,8 @@
 	'(gnus-header-content ((t (:foreground "#ff9810"))))
 	'(gnus-header-from ((t (:foreground "#f0e16a"))))
 	'(gnus-header-name ((t (:foreground "#ff9800"))))
-	'(gnus-header-subject ((t (:foreground "#ff8800")))))
+	'(gnus-header-subject ((t (:foreground "#ff8800"))))
+	'(slime-repl-inputed-output-face ((t (:foreground "#ff9800")))))
 
 ;;;###autoload
 (when load-file-name
