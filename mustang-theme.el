@@ -21,7 +21,7 @@
         '(isearch ((t (:bold t :foreground "#202020" :background "#e2e2e5"))))
         '(modeline ((t (:bold t :foreground "#808080" :background "#626262"))))
         '(modeline-inactive ((t (:foreground "#808080" :background "#202020"))))
-        '(modeline-buffer-id ((t (:bold t :foreground "#202020" :background "#ff9800"))))
+        '(modeline-buffer-id ((t (:bold t :foreground "#ff9800" :background "#202020"))))
         '(minibuffer-prompt ((t (:bold t :foreground "#708090"))))
         '(default-italic ((t (:italic t))))
 	'(font-lock-comment-face ((t (:foreground "#808080"))))
