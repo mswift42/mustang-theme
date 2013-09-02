@@ -36,7 +36,7 @@
         '(font-lock-reference-face ((t (:bold t :foreground "#808bed"))))
         '(font-lock-string-face ((t (:foreground "#b1d631"))))
         '(font-lock-type-face ((t (:foreground "#7e8aa2"))))
-        '(font-lock-variable-name-face ((t (:foreground "#e2e2e5"))))
+        '(font-lock-variable-name-face ((t (:foreground "#ff9800"))))
         '(font-lock-warning-face ((t (:foreground "#ffffff" :background "#ff6523"))))
 	'(link ((t (:foreground "#ff9800"))))
 	'(org-hide ((t (:foreground "#708090"))))
