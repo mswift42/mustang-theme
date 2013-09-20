@@ -72,6 +72,9 @@
 	'(gnus-header-from ((t (:foreground "#f0e16a"))))
 	'(gnus-header-name ((t (:foreground "#ff9800"))))
 	'(gnus-header-subject ((t (:foreground "#ff8800"))))
+	'(mu4e-view-url-number-face ((t (:foreground "#7e8aa2"))))
+	'(mu4e-cited-1-face ((t (:foreground "#df9f2d"))))
+	'(mu4e-cited-7-face ((t (:foreground "#808bed"))))
 	'(slime-repl-inputed-output-face ((t (:foreground "#ff9800")))))
 
 ;;;###autoload
