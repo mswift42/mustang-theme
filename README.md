@@ -27,7 +27,7 @@ To install the theme
 **M-x package-install** mustang-theme
 
 
-To use the mustang theme when starting emacs:
+To use the mustang theme when starting emacs, add this to your init.el:
 
     (load-theme 'mustang)
 
